@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "CityNavigation",
-    "slug": "citynavigationjr704134",
+    "name": "CityBrowser",
+    "slug": "citybrowserjr704134",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
